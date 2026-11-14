@@ -16,6 +16,9 @@ on a phone later. No accounts, no cloud.
 - **Puts a backup back on a phone**, the old one or a new one. It never deletes or overwrites anything on the phone:
   when the phone already has a different file with the same name, both are kept.
 - **Checks a backup without the phone.** Double-click "Check this backup.cmd" in the backup folder at any time.
+- **Archives an old phone into one file**, or a few parts that fit on USB sticks, DVDs or Blu-ray discs. Every file is
+  checked and keeps its exact name, and FABS can put the archive back on a phone. A backup you already have can be
+  turned into an archive too.
 
 ## What you need
 
