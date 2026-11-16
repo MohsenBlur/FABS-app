@@ -3,7 +3,9 @@
 Back up everything on your Android phone to your Windows PC, check that every file arrived intact, and put it back
 on a phone later. No accounts, no cloud.
 
-**The first release is on its way.** When it's out, it will be on the [Releases page](https://github.com/MohsenBlur/FABS-app/releases).
+**[Download FABS](https://github.com/MohsenBlur/FABS-app/releases/latest)**: get the `-setup.exe` file from the latest
+release and run it. It installs for your user only, with no administrator rights. Windows may warn that the installer
+isn't signed yet: see the [FAQ](FAQ.md#windows-warns-about-the-installer-why).
 
 ## What it does
 

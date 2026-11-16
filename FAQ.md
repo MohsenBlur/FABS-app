@@ -51,6 +51,17 @@ An archive keeps every name exactly; see "Why do some names change when I open t
 Yes. Everything copied so far is kept and checked. Continue later from the start screen; FABS picks up where it
 stopped.
 
+### What happens when I close the window?
+
+FABS keeps running in the notification area by the clock, and a backup that is running goes on. If you don't see the
+FABS icon there, click the **^** arrow next to the clock: Windows 11 puts a new app's icon there at first. To open the
+window again, click the icon or start FABS again. To quit, right-click the icon and choose **Exit**: if a backup is
+still running, FABS asks first and pauses it safely. If you'd rather have the close button quit FABS, turn off **Keep
+FABS running in the notification area when its window is closed** in Settings.
+
+When you install an update or uninstall FABS while it is running in the notification area, the installer asks you to
+quit it the same way: right-click the icon and choose **Exit**, then click OK.
+
 ### Normal backup or archive?
 
 A normal backup is a folder of files you can open and update. An archive saves the whole phone as one file, or a few
