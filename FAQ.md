@@ -30,7 +30,8 @@ and the PC. It's off by default. If it doesn't work on your network, copying car
 
 ### Where are my backups?
 
-In the folder you choose. Each phone's files keep their folder structure (DCIM, Pictures, Download, …), so you can
+In the folder you choose. To put every phone's backup in one place, set **Settings › Where new backups go**: each
+phone then gets its own folder there. Each phone's files keep their folder structure (DCIM, Pictures, Download, …), so you can
 open them in File Explorer like any other files. A hidden `.fat` folder inside holds FABS's own records; leave it
 there so that updates and checks work.
 
